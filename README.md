@@ -1,4 +1,4 @@
-# prs e-work-study-guideAa student of Bootcamp, i love visiting online stotre. so i want to place items  in a shopping cart so that i can purchase th.em
+# pre-work-study-guide as a student of Bootcamp, i love visiting online stotre. so i want to place items  in a shopping cart so that i can purchase th.em
 
 
 '''html
